@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Vida Integral",
+  "description": "Página web médica profesional y demostración comercial para Clínica Vida Integral en Santiago de Veraguas, Panamá por Tu Marca Local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
