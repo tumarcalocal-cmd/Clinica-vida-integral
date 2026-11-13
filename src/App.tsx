@@ -183,7 +183,7 @@ export default function App() {
       name: "Dra. Elena Rivas",
       specialty: "Ginecología",
       bio: "Comprometida con la salud integral de la mujer en todas sus etapas.",
-      image: "https://images.unsplash.com/photo-1594824813576-96b42b9347d4?auto=format&fit=crop&q=80&w=600"
+      image: "https://images.unsplash.com/photo-1614608682850-e0d6ed316d47?auto=format&fit=crop&q=80&w=600"
     },
     {
       name: "Dr. Javier Gómez",
